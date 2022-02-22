@@ -320,7 +320,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Programming: 10'
+  m_Text: 'Programming: +'
 --- !u!222 &467585893
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1244,7 +1244,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Art: 10'
+  m_Text: 'Art: +'
 --- !u!222 &1502773759
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1323,7 +1323,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Morale: 10'
+  m_Text: 'Morale: +'
 --- !u!222 &1601564580
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1402,7 +1402,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Efficiency: 10'
+  m_Text: 'Efficiency: +'
 --- !u!222 &1604336543
 CanvasRenderer:
   m_ObjectHideFlags: 0
