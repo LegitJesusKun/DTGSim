@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RecruitScene.unity
     guid: d248c4a662093d047935639b4c187426
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 94e9baa63fce0db489b2d1cf0075eec4
   m_configObjects: {}
